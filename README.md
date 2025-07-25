@@ -17,4 +17,6 @@
 ### 5. Connect 클릭
 <img width="1562" height="557" alt="화면 캡처 2025-07-25 114744" src="https://github.com/user-attachments/assets/0fef0521-bc40-4a96-a070-aacc89171721" />
 
+### 6. Jupyter notebook 클릭 후 사용
+<img width="1562" height="557" alt="화면 캡처 2025-07-25 114744" src="https://github.com/user-attachments/assets/45cb2bee-38cb-49ba-bae5-55a347a19064" />
 
